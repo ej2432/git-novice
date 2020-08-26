@@ -10,7 +10,7 @@ objectives:
 - "Explain differences in licensing and social expectations."
 keypoints:
 - "People who incorporate General Public License (GPL'd) software into their own software must make their software also open under the GPL license; most other open licenses do not require this."
-- "The Creative Commons family of licenses allow people to mix and match requirements and restrictions on attribution, creation of derivative works, further sharing, and commercialization."
+- "The Creative Commons family of licenses allow people to mix and match requirements and restrictions on attribution, creation of derivative works, further sharing, and commercialization. However, CC licenses are not recommended for licensing software."
 - "People who are not lawyers should not try to write licenses from scratch."
 ---
 
